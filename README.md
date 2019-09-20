@@ -1,2 +1,3 @@
-# Grafos
-Libreria para la gestion de grafos con Python 3
+# Graphs
+Graphs management library for python 3.
+(In progress...)
